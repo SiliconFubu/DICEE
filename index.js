@@ -5,8 +5,8 @@ var images = ["images/dice1.png"
                 ,"images/dice5.png"
                 ,"images/dice6.png"
             ];
-let i = Math.floor((Math.random() * 6);
-let x = Math.floor((Math.random() * 6);
+let i = Math.floor(Math.random() * 6);
+let x = Math.floor(Math.random() * 6);
 
 $('img').eq(0).attr("src",images[x]) //player1
 $('img').eq(1).attr("src",images[i]) //player2
