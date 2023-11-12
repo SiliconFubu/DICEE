@@ -1,5 +1,4 @@
 var images = ["images/dice1.png"
-                ,"images/dice1.png"
                 ,"images/dice2.png"
                 ,"images/dice3.png"
                 ,"images/dice4.png"
